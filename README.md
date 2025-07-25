@@ -317,4 +317,4 @@ UI/UX: Is the user interface clean, intuitive, responsive, and visually appealin
 Robustness: How effectively does the application handle edge cases, unexpected inputs, and errors?
 
 9. Contributing
-Feel free to fork this repository, submit issues, or propose pull requests. Contributions are welcome!
+Feel free to fork this repository, submit issues, or propose pull requests. Contributions are welcome!..
